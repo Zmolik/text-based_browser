@@ -10,3 +10,5 @@ In this project, I've learned how HTTP works, how to parse HTML and how to work 
 -  *back* (this command will show previous page)
 -  *google* (If web page was displayed before, it was also saved into a text file. You can display the saved web page from file by calling it without the prefix "https://" and postfix ".com", e.g. "google")  
 -  *exit* (to quit the app)
+
+This program is based on project from hyperskill.org:  https://hyperskill.org/projects/79?track=2  
